@@ -7,11 +7,10 @@
 
 ## 🔧 Tech Stack
 ### Backend
-<img src="https://skillicons.dev/icons?i=php" />
-（勉強中）
+<img src="https://skillicons.dev/icons?i=php" />（勉強中）
+
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-（勉強中）
+<img src="https://skillicons.dev/icons?i=html,css,js" />（勉強中）
 
 ---
 
