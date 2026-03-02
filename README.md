@@ -1,25 +1,27 @@
-# I'm unohei
+# Hi, I'm unohei 👋
 
-10年以上レガシー系の保守に向き合ってきたエンジニア。  
-現在は **Web系へのシフト＋個人開発** に注力中。
+Legacy保守10年以上。
+今は **医療DX × Webプロダクト開発** に挑戦中。
 
 ---
 
-## Tech Stack
+## 🚀 Current Focus
+- FastAPI + React + Supabase 構成でのSaaS開発
+- 業務効率化プロダクトのMVP設計
+- B2B SaaSビジネスモデル研究
+
+---
+
+## 🛠 Tech Stack
 ### Backend
-<img src="https://skillicons.dev/icons?i=php" />（勉強中）
+- Python / FastAPI
+- PHP（Laravel学習中）
+- Supabase（PostgreSQL）
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js" />（勉強中）
+- React
+- HTML / CSS / JavaScript
 
----
-
-## What I'm building
-- 📄 病院向け予約・連絡管理Webアプリ（MVP構築中）
-- 📨 FAX代替Webシステム（検討中）
-
----
-
-## Learning / Interests
-- Webバックエンド設計
-- MVP開発・事業企画
+### Infra
+- Render
+- Cloudflare R2
