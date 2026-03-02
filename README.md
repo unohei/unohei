@@ -1,4 +1,4 @@
-# Hi, I'm unohei 👋
+# Hi, I'm unohei 
 
 Legacy保守10年以上。
 今は **医療DX × Webプロダクト開発** に挑戦中。
@@ -13,15 +13,12 @@ Legacy保守10年以上。
 ---
 
 ## 🛠 Tech Stack
+
 ### Backend
-- Python / FastAPI
-- PHP（Laravel学習中）
-- Supabase（PostgreSQL）
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,postgres" />
 
 ### Frontend
-- React
-- HTML / CSS / JavaScript
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
 ### Infra
-- Render
-- Cloudflare R2
+<img src="https://skillicons.dev/icons?i=cloudflare" />
