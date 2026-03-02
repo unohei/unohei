@@ -16,9 +16,11 @@ Legacy保守10年以上。
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,postgres" />
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
 ### Infra
 <img src="https://skillicons.dev/icons?i=cloudflare" />
+<img src="https://cdn.simpleicons.org/render/000000" height="40" />
