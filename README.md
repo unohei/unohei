@@ -1,7 +1,7 @@
 # Hi, I'm unohei
 
-Legacy保守10年以上。  
-今は **Webプロダクト開発** に挑戦中。
+医療DXとWeb開発に挑戦中のエンジニア。
+React / Python / Go を学習中。
 
 ---
 
